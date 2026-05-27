@@ -1,4 +1,4 @@
-# 🚀 Multi-Project Async Runner
+# 🚀 ALL IN ONE TOOLS FOR LONG BIO CREATION OPEN SCOURCE </> Dev Watashii
 
 This `main.py` runs all three projects simultaneously and asynchronously:
 
@@ -121,4 +121,4 @@ lsof -i :30326
 For issues, check logs or review individual project files for detailed error messages.
 
 ---
-**Created by @watashii_ff** ✨
+**Created by @watashii** ✨

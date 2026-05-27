@@ -1,0 +1,37 @@
+# Combined Requirements for All 3 Projects
+# Install with: pip install -r requirements.txt
+
+# ═══════════════════════════════════════════════════════════════
+# JWT Token Generator API Dependencies
+# ═══════════════════════════════════════════════════════════════
+Flask==2.3.2
+Flask-Caching==2.0.2
+PyJWT==2.8.0
+
+# ═══════════════════════════════════════════════════════════════
+# Long Bio API Dependencies
+# ═══════════════════════════════════════════════════════════════
+requests==2.31.0
+pycryptodome==3.19.0
+protobuf==4.24.4
+
+# ═══════════════════════════════════════════════════════════════
+# Discord Bot Dependencies
+# ═══════════════════════════════════════════════════════════════
+discord.py==2.6.4
+aiohttp==3.13.2
+python-dotenv==1.2.1
+
+# ═══════════════════════════════════════════════════════════════
+# Utility Dependencies
+# ═══════════════════════════════════════════════════════════════
+colorama==0.4.6
+playwright
+urllib3
+
+# ═══════════════════════════════════════════════════════════════
+# Optional but Recommended
+# ═══════════════════════════════════════════════════════════════
+# Uncomment if needed:
+# gunicorn==21.2.0  # For production WSGI server
+# python-dotenv==1.2.1  # For environment variables
